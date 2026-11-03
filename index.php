@@ -1,5 +1,5 @@
 <?php
-$appName = "DevOps PHP Dashboard";
+$appName = "DevOps Deployed PHP Project Dashboard";
 $appVersion = "1.0.0";
 $phpVersion = phpversion();
 $serverSoftware = $_SERVER['SERVER_SOFTWARE'];
